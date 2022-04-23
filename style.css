@@ -29,3 +29,7 @@
 .alert-info{
   background-color: blueviolet;
 }
+#sign{
+  background-color: cadetblue;
+  border-radius: 12px;
+}
